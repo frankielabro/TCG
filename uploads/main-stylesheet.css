@@ -1,8 +1,14 @@
 <style>
 
 body.inner div.page-wrapper > div#header {
-background-color: #000;
+background-color: #000; 
 }
 
-
+a.nav-link {
+  color: #fff !important;
+}
 </style>
+
+
+<link href="https://raw.githubusercontent.com/frankielabro/TCG/main/main-stylesheet.css" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/x-icon" href="https://i.imgur.com/7buVknZ.png">

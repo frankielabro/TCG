@@ -1,18 +1,1 @@
-<style>
-
-body.inner div.page-wrapper > div#header {
-background-color: #000; 
-}
-
-a.nav-link {
-  color: #fff !important;
-} 
-
-p {
-  color: #000;
-}
-</style>
-
-
-<link href="https://raw.githubusercontent.com/frankielabro/TCG/main/main-stylesheet.css" rel="stylesheet" type="text/css">
-<link rel="icon" type="image/x-icon" href="https://i.imgur.com/7buVknZ.png">
+@import url("https://kunversion-frontend-custom.s3.amazonaws.com/components/listings/new/ps.css");

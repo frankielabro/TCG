@@ -4,5 +4,7 @@ body.inner div.page-wrapper > div#header {
 background-color: #000;
 }
 
-
+.nav-item .nav-link:hover {
+color: #B19955 !important; 
+}
 </style>
